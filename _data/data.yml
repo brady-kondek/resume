@@ -38,14 +38,20 @@ sidebar:
         level:
 
     interests:
-      - item: Climbing
+      - item: Programming (HTML, CSS, Python)
         link:
 
-      - item: Snowboarding
+      - item: Swimming
         link:
 
-      - item: Cooking
+      - item: Running
         link:
+      
+      - item: Boy Scouts of America
+        link: https://www.scouting.org
+        
+      - item: Technology Student Association (TSA)
+        link: https://tsaweb.org
 
 career-profile:
     title: Career Profile
