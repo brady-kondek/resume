@@ -66,6 +66,7 @@ education:
     - degree: Florida Virtual School
       university: Orlando, FL
       time: 2021 - Present
+      link: https://www.flvs.net
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -77,6 +78,7 @@ education:
     - degree: Windermere High School
       university: Windermere, FL
       time: 2021 - Present
+      link: https://windermerehs.ocps.net
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -88,6 +90,7 @@ education:
     - degree: Boiling Springs High School
       university: Boiling Springs, PA
       time: 2019 - 2021
+      link: http://bshs.smsd.us
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
