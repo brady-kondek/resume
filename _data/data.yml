@@ -64,6 +64,7 @@ career-profile:
       Second paragraph if required.
 education:
     - degree: Florida Virtual School
+      university: Orlando, FL
       time: 2021 - Present
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
